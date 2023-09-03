@@ -9,3 +9,6 @@ Answer Pain Questions: Identify potential pain questions that both buyers and se
 Data Analysis and Correlation: Calculate statistical measures such as mean, median, and standard deviation for different variables like ratings, number of orders, and prices. Use these statistics to identify correlations between variables like price and level, number of orders and stars, etc.
 
 Visualization: Create visualizations to represent the correlations you've identified. You can use libraries like Matplotlib or Seaborn to create bar charts, scatter plots, or any other visualization that helps convey your findings effectively.
+
+## To-Do: 
+-- Most Popular Features in Tiers
